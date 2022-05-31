@@ -1,3 +1,0 @@
-variable "provider" {
-  default = "aws"
-}
